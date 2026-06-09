@@ -27,5 +27,7 @@ products, customer locations(countries), and the time trends to identify any pat
 - Examine regional sales trends
 - Track time trends
 
+## Key findings
+
   ## Dashboard
 -The dashboard provides a visual summary of sales performance and business trends.
