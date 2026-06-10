@@ -37,4 +37,20 @@ products, customer locations(countries), and the time trends to identify any pat
 - Weekdays make up 72% of the total profit
 
   ## Dashboard
--The dashboard provides a visual summary of sales performance and business trends.
+
+The dashboard provides an interactive overview of Adventure Works sales performance. It enables users to monitor key business metrics, identify sales trends, and evaluate product and regional performance.
+
+### Dashboard Features
+- Total Quantity
+- Total COGS
+- Total Revenue
+- Total Profit
+- Profit margin
+- Transactions
+- Sales Trends Over Time
+- Profit by Product Category
+- Profit by product colors
+- Product pricing types
+- Profit by gender and age group
+- Regional Sales Performance
+- Interactive Filters and Slicers
